@@ -1,0 +1,5 @@
+spring 실행 -> 
+스프링이 사용하는 메모리 영역(Context)생성  spring에서는 ApplicationContext ->
+객체들에 대한 설정파일 참고해야함 (root-context.xml) ->
+root-context.xml의 <context:componext-scan> 태그로 선언된 패키지 실행 
+ 
